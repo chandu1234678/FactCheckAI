@@ -10,3 +10,5 @@
 ## 2026-03-19 09:28 - Initial commit: fake news analyzer backend + extension
 
 ## 2026-03-19 13:04 - Add gunicorn to requirements
+
+## 2026-03-19 16:56 - Update requirements.txt
