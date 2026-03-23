@@ -11,3 +11,4 @@ def run_ml_analysis(text: str):
     vec = vectorizer.transform([text])
     prob = model.predict_proba(vec)[0][1]
     return {"fake": round(float(prob), 2)}
+
