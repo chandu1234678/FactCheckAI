@@ -18,3 +18,5 @@
 ## 2026-03-20 15:30 - changes in ai.py
 
 ## 2026-03-23 20:46 - changes in health.py
+
+## 2026-03-23 22:18 - Refactor frontend to chat-based UI and stateless logic
