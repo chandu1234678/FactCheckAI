@@ -20,3 +20,5 @@
 ## 2026-03-23 20:46 - changes in health.py
 
 ## 2026-03-23 22:18 - Refactor frontend to chat-based UI and stateless logic
+
+## 2026-03-24 07:59 - Add README for Fake News Analyzer Chrome Extension
