@@ -24,3 +24,5 @@
 ## 2026-03-24 07:59 - Add README for Fake News Analyzer Chrome Extension
 
 ## 2026-03-24 10:57 - Update README formatting and content clarity
+
+## 2026-03-26 03:46 - Add backend URL to README
