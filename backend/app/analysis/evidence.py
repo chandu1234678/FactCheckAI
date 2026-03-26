@@ -74,3 +74,4 @@ def fetch_evidence(text: str):
     except Exception:
         # Evidence must NEVER crash the API
         return None, []
+
