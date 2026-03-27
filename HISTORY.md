@@ -28,3 +28,5 @@
 ## 2026-03-26 03:46 - Add backend URL to README
 
 ## 2026-03-27 02:45 - made a new version
+
+## 2026-03-27 05:06 - Removed the strict version pins on pandas, scikit-learn, groq, and cerebras-cloud-sdk
