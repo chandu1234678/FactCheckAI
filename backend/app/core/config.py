@@ -12,3 +12,4 @@ if not GOOGLE_API_KEY:
 if not GEMINI_MODEL:
     raise RuntimeError("GEMINI_MODEL missing from environment")
 
+
