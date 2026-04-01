@@ -10,3 +10,4 @@ class Analysis(Base):
     verdict = Column(String)
     confidence = Column(Float)
     created_at = Column(DateTime, default=datetime.utcnow)
+
