@@ -32,3 +32,5 @@
 ## 2026-03-27 05:06 - Removed the strict version pins on pandas, scikit-learn, groq, and cerebras-cloud-sdk
 
 ## 2026-04-01 23:24 - changed
+
+## 2026-04-02 03:29 - main.py â€” lifespan instead of deprecated startup event ml.py â€” lazy load, won't crash on import evidence.py â€” correct .env path auth_routes.py â€” clean /me route decision.py â€” Optional type hints database.py â€” absolute SQLite path
