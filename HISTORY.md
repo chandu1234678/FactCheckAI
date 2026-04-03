@@ -42,3 +42,5 @@
 ## 2026-04-03 03:38 - fix: Kiwi OAuth fallback, HEAD health check, CSP update
 
 ## 2026-04-03 05:30 - feat: TruthScan context menu opens popup, new logo
+
+## 2026-04-03 14:45 - feat: new square logo for all toolbar icons
