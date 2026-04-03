@@ -36,3 +36,5 @@
 ## 2026-04-02 03:29 - main.py â€” lifespan instead of deprecated startup event ml.py â€” lazy load, won't crash on import evidence.py â€” correct .env path auth_routes.py â€” clean /me route decision.py â€” Optional type hints database.py â€” absolute SQLite path
 
 ## 2026-04-02 15:32 - add trained ML model artifacts
+
+## 2026-04-03 00:11 - fix: accept HEAD requests on /health
