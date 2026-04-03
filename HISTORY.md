@@ -38,3 +38,5 @@
 ## 2026-04-02 15:32 - add trained ML model artifacts
 
 ## 2026-04-03 00:11 - fix: accept HEAD requests on /health
+
+## 2026-04-03 03:38 - fix: Kiwi OAuth fallback, HEAD health check, CSP update
