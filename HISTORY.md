@@ -44,3 +44,5 @@
 ## 2026-04-03 05:30 - feat: TruthScan context menu opens popup, new logo
 
 ## 2026-04-03 14:45 - feat: new square logo for all toolbar icons
+
+## 2026-04-04 18:47 - fix: remove JWT expiry so tokens never expire + fix all nav to use chrome.runtime.getURL + remove CSP-violating inline scripts
