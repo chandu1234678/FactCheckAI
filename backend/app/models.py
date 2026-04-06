@@ -11,3 +11,4 @@ class Analysis(Base):
     confidence = Column(Float)
     created_at = Column(DateTime, default=datetime.utcnow)
 
+
