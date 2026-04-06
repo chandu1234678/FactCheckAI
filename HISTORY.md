@@ -52,3 +52,5 @@
 ## 2026-04-06 00:09 - fix re size isuues
 
 ## 2026-04-06 08:34 - fix : Evidence weight and News bar is blue to visually distinguish it from ML (green/red) and AI (purple)
+
+## 2026-04-06 14:04 - feat: parallel analysis pipeline, NewsAPI evidence, forgot password with OTP email
