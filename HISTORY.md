@@ -50,3 +50,5 @@
 ## 2026-04-05 05:09 - fix: chrome.runtime.getURL + remove CSP-violating inline scripts
 
 ## 2026-04-06 00:09 - fix re size isuues
+
+## 2026-04-06 08:34 - fix : Evidence weight and News bar is blue to visually distinguish it from ML (green/red) and AI (purple)
