@@ -56,3 +56,5 @@
 ## 2026-04-06 14:04 - feat: parallel analysis pipeline, NewsAPI evidence, forgot password with OTP email
 
 ## 2026-04-07 05:54 - feat: production hardening â€” auth, OTP rate limiting, resend timer, deploy config
+
+## 2026-04-08 21:20 - redesign: cleaner OTP email template matching app design system
