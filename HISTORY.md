@@ -58,3 +58,5 @@
 ## 2026-04-07 05:54 - feat: production hardening â€” auth, OTP rate limiting, resend timer, deploy config
 
 ## 2026-04-08 21:20 - redesign: cleaner OTP email template matching app design system
+
+## 2026-04-09 01:02 - RESEND_FROM was empty string in .env â€” or operator now falls back to default correctly Rate limit was too tight (3 per 10 min) â€” now 5 per 5 min Frontend now shows the 429 error clearly instead of a generic message
