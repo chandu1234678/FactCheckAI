@@ -66,3 +66,5 @@
 ## 2026-04-09 23:25 - debug: add /auth/debug-email endpoint to diagnose Render SMTP
 
 ## 2026-04-10 05:42 - fix: revert to Resend HTTP API (SMTP blocked on Render), clear domain restriction error
+
+## 2026-04-10 09:58 - fix: Gmail SMTP port 587 STARTTLS â€” works on Render, sends to any email
