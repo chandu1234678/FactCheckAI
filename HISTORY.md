@@ -70,3 +70,5 @@
 ## 2026-04-10 09:58 - fix: Gmail SMTP port 587 STARTTLS â€” works on Render, sends to any email
 
 ## 2026-04-10 10:30 - debug: TCP port test endpoint
+
+## 2026-04-11 05:32 - fix: switch to Brevo HTTP API for OTP emails â€” works on Render, any recipient
