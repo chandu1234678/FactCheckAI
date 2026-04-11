@@ -72,3 +72,5 @@
 ## 2026-04-10 10:30 - debug: TCP port test endpoint
 
 ## 2026-04-11 05:32 - fix: switch to Brevo HTTP API for OTP emails â€” works on Render, any recipient
+
+## 2026-04-11 10:03 - fix: Brevo HTTP API for OTP emails â€” delivers to any email, verified on gitam.in
