@@ -78,3 +78,5 @@
 ## 2026-04-12 14:57 - debug: expose email error detail on Render + config back to production
 
 ## 2026-04-12 17:25 - fix: clean error message for email failures
+
+## 2026-04-12 22:01 - feat: PostgreSQL with production connection pooling
