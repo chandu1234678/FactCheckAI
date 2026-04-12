@@ -74,3 +74,5 @@
 ## 2026-04-11 05:32 - fix: switch to Brevo HTTP API for OTP emails â€” works on Render, any recipient
 
 ## 2026-04-11 10:03 - fix: Brevo HTTP API for OTP emails â€” delivers to any email, verified on gitam.in
+
+## 2026-04-12 14:57 - debug: expose email error detail on Render + config back to production
