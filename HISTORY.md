@@ -86,3 +86,5 @@
 ## 2026-04-13 05:05 - feat: retrain ML model on 98k samples (90% accuracy) with bigrams + 50k features
 
 ## 2026-04-13 13:34 - rewritten the README file
+
+## 2026-04-13 18:52 - fix: remove CDATA wrapper from README
