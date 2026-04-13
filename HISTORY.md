@@ -82,3 +82,5 @@
 ## 2026-04-12 22:01 - feat: PostgreSQL with production connection pooling
 
 ## 2026-04-13 02:44 - fix: remove hardcoded sqlite DATABASE_URL from render.yaml, add Brevo env vars
+
+## 2026-04-13 05:05 - feat: retrain ML model on 98k samples (90% accuracy) with bigrams + 50k features
