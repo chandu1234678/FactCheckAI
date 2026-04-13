@@ -80,3 +80,5 @@
 ## 2026-04-12 17:25 - fix: clean error message for email failures
 
 ## 2026-04-12 22:01 - feat: PostgreSQL with production connection pooling
+
+## 2026-04-13 02:44 - fix: remove hardcoded sqlite DATABASE_URL from render.yaml, add Brevo env vars
