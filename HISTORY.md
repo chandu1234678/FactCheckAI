@@ -90,3 +90,5 @@
 ## 2026-04-13 18:52 - fix: remove CDATA wrapper from README
 
 ## 2026-04-14 03:53 - feat: replace extension icons with new logo
+
+## 2026-04-14 13:19 - feat: replace extension icons with new logo with radme
