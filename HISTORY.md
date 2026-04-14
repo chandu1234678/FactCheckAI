@@ -88,3 +88,5 @@
 ## 2026-04-13 13:34 - rewritten the README file
 
 ## 2026-04-13 18:52 - fix: remove CDATA wrapper from README
+
+## 2026-04-14 03:53 - feat: replace extension icons with new logo
