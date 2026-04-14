@@ -30,3 +30,4 @@ def decide(ml_fake: float | None, ai_fake: float | None, evidence_score: float |
     confidence = 1 - max(ml_fake, ai_fake)
     verdict = "real" if confidence > 0.5 else "fake"
     return verdict, round(confidence, 2)
+
