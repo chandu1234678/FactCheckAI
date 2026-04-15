@@ -92,3 +92,5 @@
 ## 2026-04-14 03:53 - feat: replace extension icons with new logo
 
 ## 2026-04-14 13:19 - feat: replace extension icons with new logo with radme
+
+## 2026-04-15 21:55 - feat: structured AI scoring, stance evidence, meta-decision model, UI improvements (items 1-13)
