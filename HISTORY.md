@@ -98,3 +98,5 @@
 ## 2026-04-16 05:13 - feat: uncertainty detection, contradiction meter, source credibility tags, analyze-page button
 
 ## 2026-04-16 06:16 - feat: ablation study with F1 results, add to README
+
+## 2026-04-16 13:51 - feat: user feedback system â€” store corrections in DB for retraining, inline UI
