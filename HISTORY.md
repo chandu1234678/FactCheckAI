@@ -100,3 +100,5 @@
 ## 2026-04-16 06:16 - feat: ablation study with F1 results, add to README
 
 ## 2026-04-16 13:51 - feat: user feedback system â€” store corrections in DB for retraining, inline UI
+
+## 2026-04-17 13:03 - feat: manipulation/bias detection â€” sensational language, emotional amplification, urgency signals
