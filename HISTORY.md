@@ -102,3 +102,5 @@
 ## 2026-04-16 13:51 - feat: user feedback system â€” store corrections in DB for retraining, inline UI
 
 ## 2026-04-17 13:03 - feat: manipulation/bias detection â€” sensational language, emotional amplification, urgency signals
+
+## 2026-04-18 05:32 - feat: PostgreSQL support + Brevo email + all fixes
