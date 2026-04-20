@@ -110,3 +110,5 @@
 ## 2026-04-18 20:43 - feat: calibrated ML model, adversarial test gen, feedback retraining, drift detection, model versioning
 
 ## 2026-04-20 10:08 - feat: suspicious phrase highlighting, temporal claim tracking, verdict change detection
+
+## 2026-04-20 18:28 - feat: dynamic source credibility scoring, detail.js full upgrade with all new fields
