@@ -108,3 +108,5 @@
 ## 2026-04-18 17:07 - fix: popup.js duplicate explHtml, add subclaim styles, feedback styles
 
 ## 2026-04-18 20:43 - feat: calibrated ML model, adversarial test gen, feedback retraining, drift detection, model versioning
+
+## 2026-04-20 10:08 - feat: suspicious phrase highlighting, temporal claim tracking, verdict change detection
