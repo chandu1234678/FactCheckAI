@@ -112,3 +112,5 @@
 ## 2026-04-20 10:08 - feat: suspicious phrase highlighting, temporal claim tracking, verdict change detection
 
 ## 2026-04-20 18:28 - feat: dynamic source credibility scoring, detail.js full upgrade with all new fields
+
+## 2026-04-21 08:12 - docs: updated TODO with accurate completion status
