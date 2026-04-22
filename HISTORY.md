@@ -114,3 +114,5 @@
 ## 2026-04-20 18:28 - feat: dynamic source credibility scoring, detail.js full upgrade with all new fields
 
 ## 2026-04-21 08:12 - docs: updated TODO with accurate completion status
+
+## 2026-04-22 21:13 - feat: dashboard upgrade (model metrics, drift monitor, top sources), saved page badges, detail feedback button
