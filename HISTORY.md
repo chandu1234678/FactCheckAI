@@ -116,3 +116,5 @@
 ## 2026-04-21 08:12 - docs: updated TODO with accurate completion status
 
 ## 2026-04-22 21:13 - feat: dashboard upgrade (model metrics, drift monitor, top sources), saved page badges, detail feedback button
+
+## 2026-04-23 01:02 - feat: adversarial evaluation script, calibration+robustness API, dashboard robustness score
