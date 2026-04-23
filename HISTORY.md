@@ -118,3 +118,5 @@
 ## 2026-04-22 21:13 - feat: dashboard upgrade (model metrics, drift monitor, top sources), saved page badges, detail feedback button
 
 ## 2026-04-23 01:02 - feat: adversarial evaluation script, calibration+robustness API, dashboard robustness score
+
+## 2026-04-23 19:07 - publish-ready: updated README, rate limiting on /message, manifest v2.0.0, LICENSE, history msg fix
