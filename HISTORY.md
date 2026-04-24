@@ -124,3 +124,5 @@
 ## 2026-04-24 09:11 - fix: mark 38/39/40/46 complete, data quality filter in train.py
 
 ## 2026-04-24 15:54 - fix: 60s timeout + waking hint for Google OAuth cold start
+
+## 2026-04-24 21:03 - perf: pre-warm Google auth token silently on login page load
