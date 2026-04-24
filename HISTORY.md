@@ -122,3 +122,5 @@
 ## 2026-04-23 19:07 - publish-ready: updated README, rate limiting on /message, manifest v2.0.0, LICENSE, history msg fix
 
 ## 2026-04-24 09:11 - fix: mark 38/39/40/46 complete, data quality filter in train.py
+
+## 2026-04-24 15:54 - fix: 60s timeout + waking hint for Google OAuth cold start
