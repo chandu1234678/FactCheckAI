@@ -126,3 +126,5 @@
 ## 2026-04-24 15:54 - fix: 60s timeout + waking hint for Google OAuth cold start
 
 ## 2026-04-24 21:03 - perf: pre-warm Google auth token silently on login page load
+
+## 2026-04-25 02:16 - design: Apple-style OTP email â€” pure white, SF Pro, minimal
