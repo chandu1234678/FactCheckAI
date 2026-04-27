@@ -128,3 +128,5 @@
 ## 2026-04-24 21:03 - perf: pre-warm Google auth token silently on login page load
 
 ## 2026-04-25 02:16 - design: Apple-style OTP email â€” pure white, SF Pro, minimal
+
+## 2026-04-27 01:26 - fix: UnboundLocalError â€” move highlights after verdict assignment
