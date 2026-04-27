@@ -132,3 +132,5 @@
 ## 2026-04-27 01:26 - fix: UnboundLocalError â€” move highlights after verdict assignment
 
 ## 2026-04-27 05:04 - feat: one-step-at-a-time loading indicator, typewriter effect on explanation and chat replies
+
+## 2026-04-27 13:30 - security: centralized rate limiting middleware, security headers, input validation, stress test
