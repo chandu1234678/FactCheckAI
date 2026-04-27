@@ -130,3 +130,5 @@
 ## 2026-04-25 02:16 - design: Apple-style OTP email â€” pure white, SF Pro, minimal
 
 ## 2026-04-27 01:26 - fix: UnboundLocalError â€” move highlights after verdict assignment
+
+## 2026-04-27 05:04 - feat: one-step-at-a-time loading indicator, typewriter effect on explanation and chat replies
