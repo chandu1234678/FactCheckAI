@@ -138,3 +138,5 @@
 ## 2026-04-27 19:59 - test: 22/22 stress test passing â€” rate limiting, auth, validation, concurrent load all verified
 
 ## 2026-04-28 15:45 - feat: word-by-word typewriter on chat replies, instant on fact card explanation
+
+## 2026-04-28 16:37 - fix: no typewriter on history load, animate only new messages
