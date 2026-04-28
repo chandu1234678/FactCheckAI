@@ -136,3 +136,5 @@
 ## 2026-04-27 13:30 - security: centralized rate limiting middleware, security headers, input validation, stress test
 
 ## 2026-04-27 19:59 - test: 22/22 stress test passing â€” rate limiting, auth, validation, concurrent load all verified
+
+## 2026-04-28 15:45 - feat: word-by-word typewriter on chat replies, instant on fact card explanation
