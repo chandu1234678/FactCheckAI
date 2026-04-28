@@ -140,3 +140,5 @@
 ## 2026-04-28 15:45 - feat: word-by-word typewriter on chat replies, instant on fact card explanation
 
 ## 2026-04-28 16:37 - fix: no typewriter on history load, animate only new messages
+
+## 2026-04-28 20:13 - feat: skeleton loader, spin ring on init, markdown rendering, save feedback, no typewriter on history
