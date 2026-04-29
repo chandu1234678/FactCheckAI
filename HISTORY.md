@@ -146,3 +146,5 @@
 ## 2026-04-29 06:32 - fix: reduce ML weight for short claims, AI dominates on factual statements
 
 ## 2026-04-29 15:12 - fix: health endpoint safe drift import, revert side panel, skeleton loader, markdown rendering, save feedback
+
+## 2026-04-29 19:13 - docs: add mermaid architecture diagrams, fix project structure, improve local setup
