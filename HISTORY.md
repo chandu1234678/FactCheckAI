@@ -144,3 +144,5 @@
 ## 2026-04-28 20:13 - feat: skeleton loader, spin ring on init, markdown rendering, save feedback, no typewriter on history
 
 ## 2026-04-29 06:32 - fix: reduce ML weight for short claims, AI dominates on factual statements
+
+## 2026-04-29 15:12 - fix: health endpoint safe drift import, revert side panel, skeleton loader, markdown rendering, save feedback
