@@ -148,3 +148,5 @@
 ## 2026-04-29 15:12 - fix: health endpoint safe drift import, revert side panel, skeleton loader, markdown rendering, save feedback
 
 ## 2026-04-29 19:13 - docs: add mermaid architecture diagrams, fix project structure, improve local setup
+
+## 2026-04-29 19:13 - feat: RoBERTa ML model (primary) + TF-IDF fallback + Colab training notebook with 5 HF datasets
