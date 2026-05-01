@@ -154,3 +154,5 @@
 ## 2026-04-29 19:23 - chore: retrained models - 98.5% accuracy, brier 0.0119, 27k samples from 5 HF datasets
 
 ## 2026-04-30 13:57 - feat: industry-level hardening â€” security, logging, migrations, retry, pagination, indexes
+
+## 2026-05-01 12:49 - fix: remove RoBERTa startup preload â€” was blocking port bind on Render free tier; add RAM guard
