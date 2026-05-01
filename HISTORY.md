@@ -156,3 +156,5 @@
 ## 2026-04-30 13:57 - feat: industry-level hardening â€” security, logging, migrations, retry, pagination, indexes
 
 ## 2026-05-01 12:49 - fix: remove RoBERTa startup preload â€” was blocking port bind on Render free tier; add RAM guard
+
+## 2026-05-01 13:42 - fix: revert authFetch content-type guard (breaks on proxy 503s); pin scikit-learn==1.6.1
