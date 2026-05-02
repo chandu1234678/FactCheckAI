@@ -158,3 +158,5 @@
 ## 2026-05-01 12:49 - fix: remove RoBERTa startup preload â€” was blocking port bind on Render free tier; add RAM guard
 
 ## 2026-05-01 13:42 - fix: revert authFetch content-type guard (breaks on proxy 503s); pin scikit-learn==1.6.1
+
+## 2026-05-02 04:17 - feat: god-level DeBERTa fine-tuning notebook (10 datasets, ~130k samples) + configurable model via DEBERTA_MODEL env var
