@@ -164,3 +164,5 @@
 ## 2026-05-02 15:32 - feat: Level 70+90 â€” cross-encoder evidence reranking + Wikidata entity verification
 
 ## 2026-05-02 20:35 - feat: real-time Brave Search API + publisher bias DB (100+ sources) + bias-weighted evidence scoring
+
+## 2026-05-04 04:42 - feat: image+text consistency, multi-language support, cross-platform fact-check tracker
