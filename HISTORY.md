@@ -166,3 +166,5 @@
 ## 2026-05-02 20:35 - feat: real-time Brave Search API + publisher bias DB (100+ sources) + bias-weighted evidence scoring
 
 ## 2026-05-04 04:42 - feat: image+text consistency, multi-language support, cross-platform fact-check tracker
+
+## 2026-05-04 05:14 - fix: clean DeBERTa notebook + explainability + continuous learning + stats route fix
