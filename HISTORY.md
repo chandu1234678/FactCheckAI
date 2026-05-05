@@ -170,3 +170,5 @@
 ## 2026-05-04 05:14 - fix: clean DeBERTa notebook + explainability + continuous learning + stats route fix
 
 ## 2026-05-05 03:06 - feat: add verification checks to every cell in DeBERTa notebook
+
+## 2026-05-05 07:09 - feat: attach menu (+) with image/PDF/txt support in chat input
