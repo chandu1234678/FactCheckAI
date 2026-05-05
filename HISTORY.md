@@ -168,3 +168,5 @@
 ## 2026-05-04 04:42 - feat: image+text consistency, multi-language support, cross-platform fact-check tracker
 
 ## 2026-05-04 05:14 - fix: clean DeBERTa notebook + explainability + continuous learning + stats route fix
+
+## 2026-05-05 03:06 - feat: add verification checks to every cell in DeBERTa notebook
