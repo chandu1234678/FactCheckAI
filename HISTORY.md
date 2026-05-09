@@ -174,3 +174,5 @@
 ## 2026-05-05 07:09 - feat: attach menu (+) with image/PDF/txt support in chat input
 
 ## 2026-05-07 13:53 - fix: rewrite notebook with DistilBERT - no version issues, fp16 only on GPU, zero NaN
+
+## 2026-05-09 06:37 - fix: remove pinned transformers version - use whatever Colab has
