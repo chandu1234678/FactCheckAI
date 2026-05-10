@@ -186,3 +186,5 @@
 ## 2026-05-10 06:53 - chore: update model_version.json - DistilBERT 98.91% accuracy
 
 ## 2026-05-10 17:51 - chore: add DEBERTA_MODEL + BRAVE_API_KEY + SERPAPI_KEY + GOOGLE_FACTCHECK_API_KEY to render.yaml and .env
+
+## 2026-05-10 21:01 - fix: OOM - cap workers at 3, make Wikidata/platform conditional, fix req scope bug, increase body limit to 512KB
