@@ -190,3 +190,5 @@
 ## 2026-05-10 21:01 - fix: OOM - cap workers at 3, make Wikidata/platform conditional, fix req scope bug, increase body limit to 512KB
 
 ## 2026-05-11 04:52 - chore: trigger redeploy after history rewrite - repo now 4MB
+
+## 2026-05-11 11:48 - fix: compress images to JPEG 800px before send, PDF text extraction, body limit 2MB, add .doc/.docx support
