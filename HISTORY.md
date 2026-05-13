@@ -194,3 +194,5 @@
 ## 2026-05-11 11:48 - fix: compress images to JPEG 800px before send, PDF text extraction, body limit 2MB, add .doc/.docx support
 
 ## 2026-05-12 12:26 - fix: allow image-only messages, auto-generate prompt when image sent without text
+
+## 2026-05-13 01:56 - fix: allow send with image+no text, fix DOCX binary garbage, ensure sendText never empty
