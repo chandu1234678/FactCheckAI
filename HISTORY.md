@@ -200,3 +200,5 @@
 ## 2026-05-13 20:01 - fix: image analysis - Gemini Vision retry with flash-lite fallback, fix rate limiting, fix error handling
 
 ## 2026-05-14 04:14 - Complete P1.1: Add all 7 training notebooks for transformer pipeline
+
+## 2026-05-14 09:25 - Fix training pipeline: Add clean working scripts and notebook
