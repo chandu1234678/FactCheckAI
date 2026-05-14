@@ -204,3 +204,5 @@
 ## 2026-05-14 09:25 - Fix training pipeline: Add clean working scripts and notebook
 
 ## 2026-05-14 11:13 - Add training pipeline summary
+
+## 2026-05-14 17:17 - Fix JSON syntax errors in all notebooks
