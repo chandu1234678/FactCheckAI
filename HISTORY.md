@@ -206,3 +206,5 @@
 ## 2026-05-14 11:13 - Add training pipeline summary
 
 ## 2026-05-14 17:17 - Fix JSON syntax errors in all notebooks
+
+## 2026-05-15 03:14 - Add complete training guides and transformer integration
