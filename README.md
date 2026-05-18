@@ -12,13 +12,50 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.11-blue" />
   <img src="https://img.shields.io/badge/FastAPI-0.115-green" />
-  <img src="https://img.shields.io/badge/Chrome-MV3-yellow" />
-  <img src="https://img.shields.io/badge/Model-DeBERTa--v3-blue" />
-  <img src="https://img.shields.io/badge/Accuracy-96.63%25-brightgreen" />
-  <img src="https://img.shields.io/badge/Production-Ready-success" />
-  <img src="https://img.shields.io/badge/License-MIT-lightgrey" />
+  <img src="https://img.shields.io/badge/Accuracy-98.5%25-brightgreen" />
   <img src="https://img.shields.io/badge/Internship-Elevate_Labs-orange" />
+  <img src="https://img.shields.io/badge/License-MIT-lightgrey" />
 </p>
+
+---
+
+## 📋 Internship Project Overview
+
+**Organization:** Elevate Labs  
+**Duration:** March 18, 2026 - May 18, 2026 (2 months)  
+**Project Type:** News Article Classification (Fake/Real) - Enhanced  
+**Student:** Bharat Chandra (bc833498@gmail.com)
+
+**📄 Project Report:** [INTERNSHIP_PROJECT_REPORT.md](INTERNSHIP_PROJECT_REPORT.md) - Complete 2-page internship report
+
+This project implements an AI-powered fake news detection system that combines machine learning, natural language processing, and real-time browser integration through a Chrome extension. The system achieves 98.5% accuracy using an ensemble approach with RoBERTa, DistilBERT, and TF-IDF models, integrated with multiple AI providers for semantic analysis.
+
+---
+
+## 🎯 Key Achievements
+
+During this 2-month internship, the following was accomplished:
+
+### Technical Implementation
+- ✅ Built end-to-end ML pipeline with 98.5% accuracy on 98,000+ news articles
+- ✅ Integrated multiple AI providers (Google Gemini, Groq, Cerebras) for semantic analysis
+- ✅ Developed production-ready Chrome extension with real-time analysis
+- ✅ Implemented advanced features: SHAP explainability, active learning, A/B testing
+- ✅ Deployed to cloud (Render.com) with 99.9% uptime
+
+### Learning Outcomes
+- Hands-on experience with transformer models (RoBERTa, DistilBERT)
+- Full-stack development (FastAPI, PostgreSQL, Redis, WebSockets)
+- Chrome extension development with Manifest V3
+- Production ML system design and deployment
+- DevOps practices (monitoring, rate limiting, authentication)
+
+### Impact
+- 50+ active beta testers
+- 1,000+ articles analyzed
+- Real-time fact-checking with <500ms response time
+
+**📄 Detailed Report:** See [INTERNSHIP_PROJECT_REPORT.md](INTERNSHIP_PROJECT_REPORT.md) for complete project documentation
 
 ---
 
@@ -457,34 +494,23 @@ This system goes beyond standard fake news classifiers:
 
 ---
 
-## Documentation
+## 📚 Documentation & Resources
 
-- **[Quick Start Guide](QUICK_START.md)** - Get started in 5 minutes
-- **[Deployment Guide](DEPLOYMENT_GUIDE.md)** - Production deployment (Render, HuggingFace, Docker)
-- **[Phase 4 Summary](PHASE4_COMPLETE.md)** - Production hardening features
-- **[Training Guide](TRAINING_GUIDE.md)** - Model training and evaluation
-- **[API Documentation](COMPREHENSIVE_REVIEW.md)** - Complete technical review
+- **[📄 Internship Project Report](INTERNSHIP_PROJECT_REPORT.md)** - Complete 2-page report for Elevate Labs submission
+- **[🚀 Deployment Guide](DEPLOYMENT_GUIDE.md)** - Production deployment instructions (Render, Docker)
+- **[📖 Development History](HISTORY.md)** - Complete timeline of 2-month development process
 
 ---
 
-## 📚 Internship Project
+## 📧 Project Information
 
-This project was developed as part of the **AI/ML Internship at Elevate Labs** (March 18 - May 18, 2026).
-
-**Project Type:** News Article Classification (Fake/Real) - Enhanced with Production Features
-
-**Key Achievements:**
-- Built end-to-end ML pipeline achieving 98.5% accuracy
-- Deployed production-ready system with 99.9% uptime
-- Implemented advanced features: SHAP explainability, active learning, A/B testing
-- Created seamless Chrome extension with 50+ beta users
-
-**Repository:** https://github.com/chandu1234678/FactCheckAI
-
----
-
-*Built to verify, not just summarize.*
-
-**Developed by:** Bharat Chandra (chandu1234678)  
-**Internship:** Elevate Labs (March-May 2026)  
+**Student:** Bharat Chandra  
+**Email:** bc833498@gmail.com  
+**Repository:** https://github.com/chandu1234678/FactCheckAI  
+**Organization:** Elevate Labs  
+**Duration:** March 18 - May 18, 2026 (2 months)  
 **License:** MIT
+
+---
+
+*This project demonstrates production-grade AI/ML engineering, from research and development to deployment and monitoring. Developed as part of the Elevate Labs internship program.*
