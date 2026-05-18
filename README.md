@@ -19,7 +19,7 @@
 
 ---
 
-## 📋 Internship Project Overview
+##  Internship Project Overview
 
 **Organization:** Elevate Labs  
 **Duration:** March 18, 2026 - May 18, 2026 (2 months)  
@@ -32,7 +32,7 @@ This project implements an AI-powered fake news detection system that combines m
 
 ---
 
-## 🎯 Key Achievements
+##  Key Achievements
 
 During this 2-month internship, the following was accomplished:
 
@@ -55,7 +55,7 @@ During this 2-month internship, the following was accomplished:
 - 1,000+ articles analyzed
 - Real-time fact-checking with <500ms response time
 
-**📄 Detailed Report:** See [INTERNSHIP_PROJECT_REPORT.md](INTERNSHIP_PROJECT_REPORT.md) for complete project documentation
+** Detailed Report:** See [INTERNSHIP_PROJECT_REPORT.md](INTERNSHIP_PROJECT_REPORT.md) for complete project documentation
 
 ---
 
