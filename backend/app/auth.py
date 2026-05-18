@@ -5,7 +5,7 @@ JWT token generation and validation for user authentication.
 """
 
 import os
-import jwt
+from jose import jwt
 from datetime import datetime, timedelta
 from fastapi import Depends, HTTPException, status
 from fastapi.security import HTTPBearer, HTTPAuthorizationCredentials
