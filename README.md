@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/Accuracy-96.63%25-brightgreen" />
   <img src="https://img.shields.io/badge/Production-Ready-success" />
   <img src="https://img.shields.io/badge/License-MIT-lightgrey" />
+  <img src="https://img.shields.io/badge/Internship-Elevate_Labs-orange" />
 </p>
 
 ---
@@ -226,7 +227,7 @@ Component F1 drop when removed from meta-model:
 ## Project Structure
 
 ```
-fake-news-analyzer/
+FactCheckAI/
 ├── backend/
 │   ├── app/
 │   │   ├── analysis/
@@ -321,8 +322,8 @@ fake-news-analyzer/
 ## Local Setup
 
 ```bash
-git clone https://github.com/chandu1234678/fake-news-analyzer.git
-cd fake-news-analyzer/backend
+git clone https://github.com/chandu1234678/FactCheckAI.git
+cd FactCheckAI/backend
 
 py -m venv venv
 venv\Scripts\activate
@@ -466,4 +467,24 @@ This system goes beyond standard fake news classifiers:
 
 ---
 
+## 📚 Internship Project
+
+This project was developed as part of the **AI/ML Internship at Elevate Labs** (March 18 - May 18, 2026).
+
+**Project Type:** News Article Classification (Fake/Real) - Enhanced with Production Features
+
+**Key Achievements:**
+- Built end-to-end ML pipeline achieving 98.5% accuracy
+- Deployed production-ready system with 99.9% uptime
+- Implemented advanced features: SHAP explainability, active learning, A/B testing
+- Created seamless Chrome extension with 50+ beta users
+
+**Repository:** https://github.com/chandu1234678/FactCheckAI
+
+---
+
 *Built to verify, not just summarize.*
+
+**Developed by:** Bharat Chandra (chandu1234678)  
+**Internship:** Elevate Labs (March-May 2026)  
+**License:** MIT
