@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/FastAPI-0.115-green" />
   <img src="https://img.shields.io/badge/Accuracy-98.5%25-brightgreen" />
   <img src="https://img.shields.io/badge/Internship-Elevate_Labs-orange" />
-  <img src="https://img.shields.io/badge/License-MIT-lightgrey" />
+  
 </p>
 
 ---
